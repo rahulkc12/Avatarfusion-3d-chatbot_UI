@@ -1,5 +1,5 @@
 # Avatarfusion:3d chatbot_UI
-#Introduction:
+Introduction:\
 Introducing AvatarFusion,  aim is to enhance human-machine interaction and create a more engaging conversation experience. In addition to conversation, 3D avatars can enhance the attractiveness of
 chatbots and effectively display emotions through facial expressions, making the
 conversation more engaging. Facial expressions play a crucial role in non-verbal
@@ -12,14 +12,13 @@ chatbots instructions become clearer, and users feel like they are interacting w
 
 
 
-#How it works.......
+How it works.......\
 download all the github repository and extract:
-1)Front-end:
-2)Backend: https://github.com/rahulkc12/Avatarfusion-3d-chatbot_backendpart.git
+1)Front-end: https://github.com/rahulkc12/Avatarfusion-3d-chatbot_UI.git   \
+2)Backend: https://github.com/rahulkc12/Avatarfusion-3d-chatbot_backendpart.git  \
 
-Upload the transformer model and emotion model through own training and as in ..
-
-now upload the model in backend path:Avatarfusion-3d-chatbot_backendpart\backend-part\models\scripts
+Upload the transformer model and emotion model through own training and as in ..   \
+upload the model in backend path: Avatarfusion-3d-chatbot_backendpart\backend-part\models\scripts
 keep emotion model in e_model and transformer_model in t_model.
 now adjust the path of model in code.
 
@@ -27,7 +26,7 @@ project UI can be seen as:
 ![new_ui](https://github.com/rahulkc12/Avatarfusion-3d-chatbot_UI/assets/33522117/1e4c0e0e-bbc4-46e7-82dd-cfecacf2a8bf)
 
 
-#Commands to run.......
+#Commands to run.......\
 
 now run Frontend by:
 ```
