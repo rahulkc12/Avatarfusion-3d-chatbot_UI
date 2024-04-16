@@ -23,6 +23,10 @@ now upload the model in backend path:Avatarfusion-3d-chatbot_backendpart\backend
 keep emotion model in e_model and transformer_model in t_model.
 now adjust the path of model in code.
 
+project UI can be seen as:
+![new_ui](https://github.com/rahulkc12/Avatarfusion-3d-chatbot_UI/assets/33522117/1e4c0e0e-bbc4-46e7-82dd-cfecacf2a8bf)
+
+
 
 now run Frontend by:
 ```
